@@ -1,0 +1,21 @@
+   , 0.00
+SCR1 20/03- Minions (£5.50 - U), 5.50
+SCR2 20/03- Kong: Skull Island (£11.00 - 12A), 11.00
+SCR3 21/03- Fifty Shades Darker (£9.00 - 18), 9.00
+SCR4 21/03- John Wick 2 (£15.00 - 15), 15.00
+SCR5 22/03- The Great Wall (£7.00 - 12A), 7.00
+SCR6 22/03- T2 Trainspotting (£5.00 - 18), 5.00
+SCR7 23/03- Logan (£12.50 - 15), 12.50
+SCR8 23/03- Get Out (£8.00 - 15), 8.00
+SCR9 24/03- Moonlight (£11.00 - 15), 11.00
+SCR10 24/03- Ghost in the Shell (£15.00 - 12A), 15.00
+SCR1 27/03- Power Rangers (£11.00 - 12A), 11.00
+SCR2 27/03- Life (£13.00 - 15), 13.00
+SCR3 28/03- Your Name (£15.00 - 12A), 15.00
+SCR4 28/03- Spirited Away (£5.50 - PG), 5.50
+SCR5 29/03- Doctor Strange (£6.00 - 12A), 6.00
+SCR6 29/03- Star Wars: Rogue One (£9.00 - 12A), 9.00
+SCR7 30/03- The Dark Knight Rises (£5.00 - 12), 5.00
+SCR8 30/03- The Wolf of Wall Street (£8.00 - 18), 8.00
+SCR9 31/03- The GodFather (£7.00 - 15), 7.00
+SCR10 31/03- Pulp Fiction (£6.00 - 18), 6.00

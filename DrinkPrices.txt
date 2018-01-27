@@ -1,0 +1,11 @@
+   , 0.00
+Pepsi- £2, 2.00
+Coca Cola- £3.00, 3.00
+Fanta- £2.50, 2.50
+Dr Pepper- £2, 2.00
+Sprite- £2, 2.00
+7-UP- £2, 2.00
+Monster- £1.50, 1.50
+Ice Tea- £3, 3.00
+Slushie- £3.50, 3.50
+Water- £1, 1.00
